@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.heading{
+    color: aliceblue;
+    background-color: #1e11db;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+
+}
+nav{
+    color: black;
+}
+footer{
+    height: 20px;
+    width: 100%;
+    
+}
